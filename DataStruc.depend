@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1506279156 source:c:\users\user\desktop\test\datastruc\data.cpp
+	<iostream>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"Data.h"
+
+1506279492 c:\users\user\desktop\test\datastruc\data.h
+
+1506279493 source:c:\users\user\desktop\test\datastruc\main.cpp
+	<iostream>
+	"Data.h"
+
+1506279493 source:c:\users\user\desktop\datastruc\main.cpp
+	<iostream>
+	"Data.h"
+
+1506279492 c:\users\user\desktop\datastruc\data.h
+
+1506323150 source:c:\users\user\desktop\datastruc\data.cpp
+	<iostream>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"Data.h"
+
